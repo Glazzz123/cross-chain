@@ -1,0 +1,3 @@
+{"level":"error","message":"Ошибка подключения к базе данных:","service":"rvn-eth-bridge"}
+{"level":"error","message":"Адрес моста Ravencoin не установлен в переменных окружения.","service":"rvn-eth-bridge"}
+{"level":"error","message":"Адрес моста Ravencoin не установлен в переменных окружения.","service":"rvn-eth-bridge"}

@@ -1,0 +1,5 @@
+{"level":"info","message":"API сервер запущен на порту 3000","service":"rvn-eth-bridge"}
+{"level":"info","message":"API сервер запущен на порту 3000","service":"rvn-eth-bridge"}
+{"level":"error","message":"Ошибка подключения к базе данных:","service":"rvn-eth-bridge"}
+{"level":"error","message":"Адрес моста Ravencoin не установлен в переменных окружения.","service":"rvn-eth-bridge"}
+{"level":"error","message":"Адрес моста Ravencoin не установлен в переменных окружения.","service":"rvn-eth-bridge"}
